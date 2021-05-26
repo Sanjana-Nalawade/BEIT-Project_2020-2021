@@ -1,0 +1,20 @@
+{
+  "name": "healthchainbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "config": "^3.3.6",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "node-cron": "^3.0.0",
+    "web3": "^1.3.6"
+  }
+}
